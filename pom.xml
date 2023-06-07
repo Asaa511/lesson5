@@ -63,17 +63,4 @@
         </dependency>
     </dependencies>
 
-    <repositories>
-        <repository>
-            <id>aliyun-central</id>
-            <url>http://maven.aliyun.com/nexus/content/repositories/central/</url>
-            <snapshots>
-                <enabled>false</enabled>
-            </snapshots>
-            <releases>
-                <enabled>true</enabled>
-            </releases>
-        </repository>
-    </repositories>
-
 </project>
