@@ -1,4 +1,5 @@
 # 第 5 课
+settings.xml文件添加镜像
 '
 <mirrors>
 
