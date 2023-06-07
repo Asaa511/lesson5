@@ -1,6 +1,7 @@
-# 第 5 课
-settings.xml文件添加镜像
-'
+#lesson5
+
+#settings.xml文件添加镜像
+
 <mirrors>
 
     <mirror>
@@ -16,4 +17,3 @@ settings.xml文件添加镜像
     </mirror>
 
 </mirrors>
-''
